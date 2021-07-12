@@ -1,0 +1,134 @@
+\documentclass[a4paper,10pt]{article}
+%-----------------------------------------------------------
+\usepackage[top=0.75in, bottom=0.75in, left=0.55in, right=0.85in]{geometry}
+\usepackage{graphicx}
+\usepackage{url}
+\usepackage{palatino}
+\usepackage{tabularx}
+\fontfamily{SansSerif}
+\selectfont
+
+\usepackage[T1]{fontenc}
+\usepackage
+%[ansinew]
+[utf8]
+{inputenc}
+
+\usepackage{color}
+\definecolor{mygrey}{gray}{0.75}
+\textheight=9.75in
+\raggedbottom
+
+\setlength{\tabcolsep}{0in}
+\newcommand{\isep}{-2 pt}
+\newcommand{\lsep}{-0.5cm}
+\newcommand{\psep}{-0.6cm}
+\renewcommand{\labelitemii}{$\circ$}
+
+\pagestyle{empty}
+%-----------------------------------------------------------
+%Custom commands
+\newcommand{\resitem}[1]{\item #1 \vspace{-2pt}}
+\newcommand{\resheading}[1]{{\small \colorbox{mygrey}{\begin{minipage}{0.975\textwidth}{\textbf{#1 \vphantom{p\^{E}}}}\end{minipage}}}}
+\newcommand{\ressubheading}[3]{
+\begin{tabular*}{6.62in}{l @{\extracolsep{\fill}} r}
+	\textsc{{\textbf{#1}}} & \textsc{\textit{[#2]}} \\
+\end{tabular*}\vspace{-8pt}}
+%-----------------------------------------------------------
+
+\begin{document}
+\hspace{0.5cm}\\[-0.2cm]
+
+\textbf{Shivam Kotnala} \\
+\indent Email-id : \textbf{\url{kotnalashivam6@gmail.com}} \\
+\indent Mobile No.: \textbf{8279747964}, \ \\
+\indent \textbf{\url{https://github.com/EdenShivam}}\\
+
+
+\resheading{\textbf{ACADEMIC DETAILS} }\\[\lsep]
+\\
+%\begin{table}[ht!]
+%\begin{center}
+\indent \rule{6.8in}{0.4pt}\\
+\indent \begin{tabular}{ l @{\hskip 0.15in} l @{\hskip 0.15in} l @{\hskip 0.15in} l @{\hskip 0.15in} }
+\noindent \textbf{Year} & \textbf{Degree/Exam} & \textbf{Institute} & \textbf{GPA/Marks(\%)}\\
+
+Aug, 2010 - Jun, 2014 & B.TECH in Computer Science & Graphic Era Hill University Dehradun & 8.5/10.0  \\
+2018 & I.C.S.E & BrightLands & 79 \% \\
+2016 & I.S.E & BrightLands & 89 \%\\
+
+
+\end{tabular}
+\indent \rule{6.8in}{0.4pt}
+%\end{center}
+%\end{table}
+\\
+
+\resheading{\textbf{INTERNSHIPS}}\\[\lsep]
+\begin{itemize}
+\setlength\itemsep{0.5em}
+\item \textbf{Developed a telegram chat bot named Zeus :}On the fundamentals of IOT and Robotics,for a period of 4
+weeks,with a online platform under INMOVIDU and APSIS solutions in collaboration with IIT Bombay
+and Microsoft,where I understands the fundamentals of IOT And Embeded System.\\
+\url{https://drive.google.com/file/d/1eNnOza5pGRX570Xs8ggMNYZPcfD53JHh/view}
+\end{itemize}
+
+
+
+\begin{itemize}
+\setlength\itemsep{0.5em}
+\item \textbf{False Product Identification using Blockchain,HackerCode(Dec 2020-Jan,2021):}To develop an Ethereum
+based blockchain network in order to keep track of all products in the network.Manufactures or customers
+can access the information by logging in through a web portal.The blockchain uses Solidity smart contracts to carry out transactions.
+\\
+\url{https://drive.google.com/file/d/1THZ2afeFbTaLBDY48pAqR5OLEepxgqLt/view?usp=sharing}
+\end{itemize}
+
+
+
+\resheading{\textbf{PROJECTS} }\\[\lsep]
+\begin{itemize}
+\setlength\itemsep{0.5em}
+
+
+\item \textbf{IOT fundamentals with python bot and adafruit server} (Apr, 2019 - May, 2019) :  Made a telegram chat bot named Zeus who is capable to regonize text by turning light on and off ,and also capable of sending a live pic of the LED bulb is off or on.
+\\
+\textbf {Language}:Python,TwitterApi.
+\\
+\url{https://github.com/EdenShivam/IOT-PROJECTS}
+
+\item \textbf{Bluetooth Chat App} (Jan, 2020 - Marc, 2020) :A chat application on the concept of using Bluetooth as a communicating model,as a aim to provide free communcation facility.\\
+\textbf{Language}:Java,AndroidStudio\\
+\url{https://github.com/EdenShivam/AndroidBluetoothChatApp/tree/master}
+\end{itemize}
+
+\resheading{\textbf{TECHNICAL SKILLS} }\\[\lsep]
+\begin{itemize}
+\setlength\itemsep{0em}
+\item \noindent \textbf{Languages} \textbf{Java} (proficient), 
+\\
+\textbf{Python,C,C++}(FamiliarWith)
+\setlength\itemsep{0em}
+\item \noindent
+\textbf{Webtechnology} SQL, HTML, CSS 
+
+ \item \noindent\textbf{Tools and Frameworks} OracleDb, Git,Window,ReactJs.
+\end{itemize}
+
+\resheading{\textbf{SCHOLASTIC ACHIEVEMENTS} }\\[\lsep]
+\begin{itemize}
+\setlength\itemsep{0em}
+\item \noindent \textbf{HackerRank}\\Rated 3-star coder in ProblemSolving.\\
+Rated 2-star coder in Java on HackerRank.\\ 
+Solved 100+ question over GFG patform.\\Solved 100+ question over Leetcode patform.
+\end{itemize}
+
+\resheading{\textbf{POSITIONS OF RESPONSIBILITY} }\\[\lsep]
+\begin{itemize}
+\setlength\itemsep{0em}
+\item \noindent \textbf{ShrineDuty and EnteranceDuty}: RamkrishnaAshrama in DurgaPujaCelebrations from year 2015-2017.
+\item \noindent \textbf{Member}:for an NGO name MAD at school level,whose aim was to make plastic ban and have a clean Dehradun city. 
+\item \noindent \textbf{Content Writer}:Working for a startup ,who will be acting as swadeshi First E-Commerce Library all over India.
+
+\end{itemize}
+\end{document}
