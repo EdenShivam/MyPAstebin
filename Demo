@@ -67,9 +67,9 @@ Aug, 2010 - Jun, 2014 & B.TECH in Computer Science & Graphic Era Hill University
 \resheading{\textbf{INTERNSHIPS}}\\[\lsep]
 \begin{itemize}
 \setlength\itemsep{0.5em}
-\item \textbf{Developed a telegram chat bot named Zeus :}On the fundamentals of IOT and Robotics,for a period of 4
-weeks,with a online platform under INMOVIDU and APSIS solutions in collaboration with IIT Bombay
-and Microsoft,where I understands the fundamentals of IOT And Embeded System.\\
+\item \textbf{Developed a telegram chatbot named Zeus :}On the fundamentals of IoT and Robotics, for a period of 4
+weeks, with an online platform under INMOVIDU and APSIS solutions in collaboration with IIT Bombay
+and Microsoft, where I understand the fundamentals of IoT And Embedded systems.\\
 \url{https://drive.google.com/file/d/1eNnOza5pGRX570Xs8ggMNYZPcfD53JHh/view}
 \end{itemize}
 
@@ -78,8 +78,8 @@ and Microsoft,where I understands the fundamentals of IOT And Embeded System.\\
 \begin{itemize}
 \setlength\itemsep{0.5em}
 \item \textbf{False Product Identification using Blockchain,HackerCode(Dec 2020-Jan,2021):}To develop an Ethereum
-based blockchain network in order to keep track of all products in the network.Manufactures or customers
-can access the information by logging in through a web portal.The blockchain uses Solidity smart contracts to carry out transactions.
+based blockchain network to keep track of all products in the network. Manufacturers or customers
+can access the information by logging in through a web portal. The blockchain uses Solidity smart contracts to carry out transactions.
 \\
 \url{https://drive.google.com/file/d/1THZ2afeFbTaLBDY48pAqR5OLEepxgqLt/view?usp=sharing}
 \end{itemize}
@@ -91,13 +91,13 @@ can access the information by logging in through a web portal.The blockchain use
 \setlength\itemsep{0.5em}
 
 
-\item \textbf{IOT fundamentals with python bot and adafruit server} (Apr, 2019 - May, 2019) :  Made a telegram chat bot named Zeus who is capable to regonize text by turning light on and off ,and also capable of sending a live pic of the LED bulb is off or on.
+\item \textbf{IoT fundamentals with python bot and adafruit server} (Apr, 2019 - May, 2019) :  Made a telegram chatbot named Zeus who is capable of recognizing text by turning the light on and off, and also capable of sending a live pic of the LED bulb is off or on.
 \\
 \textbf {Language}:Python,TwitterApi.
 \\
 \url{https://github.com/EdenShivam/IOT-PROJECTS}
 
-\item \textbf{Bluetooth Chat App} (Jan, 2020 - Marc, 2020) :A chat application on the concept of using Bluetooth as a communicating model,as a aim to provide free communcation facility.\\
+\item \textbf{Bluetooth Chat App} (Jan, 2020 - Marc, 2020) :A chat application on the concept of using Bluetooth as a communicating model, as an aim to provide a free ommunication facility.\\
 \textbf{Language}:Java,AndroidStudio\\
 \url{https://github.com/EdenShivam/AndroidBluetoothChatApp/tree/master}
 \end{itemize}
@@ -118,17 +118,16 @@ can access the information by logging in through a web portal.The blockchain use
 \resheading{\textbf{SCHOLASTIC ACHIEVEMENTS} }\\[\lsep]
 \begin{itemize}
 \setlength\itemsep{0em}
-\item \noindent \textbf{HackerRank}\\Rated 3-star coder in ProblemSolving.\\
-Rated 2-star coder in Java on HackerRank.\\ 
-Solved 100+ question over GFG patform.\\Solved 100+ question over Leetcode patform.
+\item \noindent \textbf{Ranking}\\Rated 3-star coder in ProblemSolving.\\
+Solved 100+ question over GFG patform and Leetcode patform.
 \end{itemize}
 
 \resheading{\textbf{POSITIONS OF RESPONSIBILITY} }\\[\lsep]
 \begin{itemize}
 \setlength\itemsep{0em}
-\item \noindent \textbf{ShrineDuty and EnteranceDuty}: RamkrishnaAshrama in DurgaPujaCelebrations from year 2015-2017.
+\item \noindent \textbf{ShrineDuty and EnteranceDuty}: RamkrishnaAshrama in DurgaPujaCelebrations from the year 2015-2017.
 \item \noindent \textbf{Member}:for an NGO name MAD at school level,whose aim was to make plastic ban and have a clean Dehradun city. 
-\item \noindent \textbf{Content Writer}:Working for a startup ,who will be acting as swadeshi First E-Commerce Library all over India.
+\item \noindent \textbf{Content Writer}:Worked for a startup ,who will be acting as swadeshi First E-Commerce Library all over India.
 
 \end{itemize}
 \end{document}
